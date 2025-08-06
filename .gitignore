@@ -1,0 +1,25 @@
+# Ignora ambiente virtuale Python
+.venv/
+venv
+venv2
+
+# File di sistema
+__pycache__/
+*.py[cod]
+
+# File di log
+*.log
+
+# File temporanei di VS Code
+.vscode/
+.runs/
+.promptflow/
+
+
+.env
+
+dist/
+build/
+QRMGui.exe
+QRMGui.spec
+from_list_question_to_excel.ipynb
